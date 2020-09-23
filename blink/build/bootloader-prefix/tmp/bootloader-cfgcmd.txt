@@ -1,0 +1,1 @@
+cmd='/Users/kaiwenyu/.espressif/tools/cmake/3.13.4/CMake.app/Contents/bin/cmake;-DSDKCONFIG=/Users/kaiwenyu/eclipse-workspace/blink/sdkconfig;-DIDF_PATH=/Users/kaiwenyu/esp/esp-idf;-DSECURE_BOOT_SIGNING_KEY=/Users/kaiwenyu/eclipse-workspace/blink;-DEXTRA_COMPONENT_DIRS=/Users/kaiwenyu/esp/esp-idf/components/bootloader;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
