@@ -23,8 +23,8 @@ extern const uint8_t ec_pv_key_end[] asm("_binary_private_key_pem_end");
 
 static const char *TAG = "APP";
 
-#define ESP_WIFI_SSID "NetComm 2161-EXT"
-#define ESP_WIFI_PASSWORD "qudaceruqi"
+#define ESP_WIFI_SSID ""
+#define ESP_WIFI_PASSWORD ""
 #define DEVICE_PATH "projects/%s/locations/%s/registries/%s/devices/%s"
 #define SUBSCRIBE_TOPIC_COMMAND "/devices/%s/commands/#"
 #define SUBSCRIBE_TOPIC_CONFIG "/devices/%s/config"
